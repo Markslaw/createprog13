@@ -9,5 +9,5 @@ void draw() {
   } else {
     fill(25);
   }
-  ellipse(mouseX, mouseY, 250, 250);
+  triangle(mouseX, mouseY, 250, 250, 2, 2);
 }
