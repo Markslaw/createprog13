@@ -9,5 +9,5 @@ void draw() {
   } else {
     fill(250);
   }
-  triangle(mouseX, mouseY, 300, 500, 100, 2);
+  triangle(mouseX, mouseY, 300, 500, 100, 600);
 }
