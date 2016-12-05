@@ -4,10 +4,10 @@ void setup() {
 
 void draw() {
   if (mousePressed) {
-    fill(125);
+    fill(1);
     
   } else {
-    fill(25);
+    fill(250);
   }
-  triangle(mouseX, mouseY, 250, 250, 2, 2);
+  triangle(mouseX, mouseY, 300, 250, 2, 2);
 }
