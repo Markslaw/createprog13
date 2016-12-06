@@ -4,11 +4,8 @@ void setup() {
 }
 
 void draw() {
-  if (mousePressed) {
+  text("Hello World!",0,0); {
     fill(1);
     
-  } else {
-    fill(250);
+  } 
   }
-  triangle(100, 400, 300, 500, 100, 600);
-}
