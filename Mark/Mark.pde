@@ -4,7 +4,7 @@ void setup() {
 }
 
 void draw() {
-  text("Hello World!",0,0); {
+  text("Hello World!",100,0); {
     fill(1);
     
   } 
